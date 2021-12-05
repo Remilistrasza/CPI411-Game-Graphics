@@ -20,8 +20,14 @@ VertexPositionTexture MyVertexShader(VertexPositionTexture input)
 
 float4 MyPixelShader(VertexPositionTexture input) : COLOR
 {
+	//Color Drawing 
 	//float4 color = input.Color;
-	//color += 0.3f;
+	//if (color.r %0.1 < 0.05f) 
+	//	return float4(1, 1, 1, 1);
+	//else 
+	//	return color;
+
+	//Image drawing 
 	float2 textureCoordinate = input.TextureCoordinate;
 	return tex2D(mySampler, textureCoordinate);
 }

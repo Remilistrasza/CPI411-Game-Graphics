@@ -4,14 +4,14 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/cube.fbx</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/Skybox.fx</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG1.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG2.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG3.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG4.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG5.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG6.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/cube.fbx</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/Skybox.fx</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG1.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG2.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG3.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG4.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG5.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG6.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

@@ -4,11 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>D:/CPI411-Game-Graphics/Lab01/Content/SimpleHLSL.fx</File>
     <File>D:/Homework/CPI 411/CPI411_2021/Lab01/Content/logo_mg.jpg</File>
     <File>D:/Homework/CPI 411/CPI411_2021/Lab01/Content/SimpleHLSL.fx</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

@@ -1,9 +1,9 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/cube.fbx","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.2196722
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/Skybox.fx","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1186,1620,0.2672192
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG1.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.1003013
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG2.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0644178
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG3.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0505481
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG4.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0608471
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG5.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0451327
-"F:/ASU/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG6.png","F:/ASU/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0451665
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/cube.fbx","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.2048335
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/Skybox.fx","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1186,1620,0.2598786
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG1.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.0821091
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG2.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0411627
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG3.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0388864
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG4.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0505671
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG5.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0362078
+"D:/CPI411-Game-Graphics/Lab05/Content/skybox/SunsetPNG6.png","D:/CPI411-Game-Graphics/Lab05/Content/bin/Windows/Content/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0347212

@@ -1,3 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/CPI411-Game-Graphics/Lab01/Content/SimpleHLSL.fx","D:/CPI411-Game-Graphics/Lab01/Content/bin/Windows/SimpleHLSL.xnb","EffectProcessor","CompiledEffectContent",857,843,0.4324838
 "D:/Homework/CPI 411/CPI411_2021/Lab01/Content/logo_mg.jpg","D:/Homework/CPI 411/CPI411_2021/Lab01/Content/bin/Windows/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.1924397
 "D:/Homework/CPI 411/CPI411_2021/Lab01/Content/SimpleHLSL.fx","D:/Homework/CPI 411/CPI411_2021/Lab01/Content/bin/Windows/SimpleHLSL.xnb","EffectProcessor","CompiledEffectContent",744,843,0.2851107

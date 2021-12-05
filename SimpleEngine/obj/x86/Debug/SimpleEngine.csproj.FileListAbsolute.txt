@@ -44,3 +44,26 @@ F:\ASU\CPI 411\CPI411_2021\SimpleEngine\obj\x86\Debug\SimpleEngine.csproj.CoreCo
 F:\ASU\CPI 411\CPI411_2021\SimpleEngine\obj\x86\Debug\SimpleEngine.csproj.CopyComplete
 F:\ASU\CPI 411\CPI411_2021\SimpleEngine\obj\x86\Debug\SimpleEngine.dll
 F:\ASU\CPI 411\CPI411_2021\SimpleEngine\obj\x86\Debug\SimpleEngine.pdb
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SimpleEngine.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SimpleEngine.pdb
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CPI411-Game-Graphics\SimpleEngine\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CPI411-Game-Graphics\SimpleEngine\obj\x86\Debug\SimpleEngine.csprojAssemblyReference.cache
+D:\CPI411-Game-Graphics\SimpleEngine\obj\x86\Debug\SimpleEngine.csproj.CoreCompileInputs.cache
+D:\CPI411-Game-Graphics\SimpleEngine\obj\x86\Debug\SimpleEngine.csproj.CopyComplete
+D:\CPI411-Game-Graphics\SimpleEngine\obj\x86\Debug\SimpleEngine.dll
+D:\CPI411-Game-Graphics\SimpleEngine\obj\x86\Debug\SimpleEngine.pdb
