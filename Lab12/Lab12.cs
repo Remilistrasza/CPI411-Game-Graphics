@@ -33,7 +33,7 @@ namespace Lab12
         Texture2D randomNormalMap, depthAndNormalMap;
         RenderTarget2D renderTarget;
         float offset = 800 / 256f;
-        float SSAORad = 0.01f;
+        float SSAORad = 0.0006f;
         VertexPositionTexture[] vertices =
         {
             new VertexPositionTexture(new Vector3(1, 1, 0), new Vector2(1, 0)),
