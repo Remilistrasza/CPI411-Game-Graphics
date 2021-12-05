@@ -12,11 +12,11 @@ All shader file (.fx) are stored in Labxx/Content (Ex. Lab07/Content/BumpMap.fx)
 
 ## Environment Prerequisites:
 
-  1. Visual Studio 2017
+  1. Visual Studio 2017+
 
-  2. [Monogame 3.7.1](https://www.monogame.net/)
+  2. [Monogame 3.7.1+](https://www.monogame.net/)
  
-  3. Unity (for lab 11)
+  3. Unity 2019+ (for lab 11)
 
 ## Lab Contents and Keyboard Inputs:
 
