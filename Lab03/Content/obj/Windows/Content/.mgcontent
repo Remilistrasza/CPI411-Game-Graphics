@@ -4,12 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/Homework/CPI 411/CPI411_2021/Lab03/Content/bunny.FBX</File>
-    <File>D:/Homework/CPI 411/CPI411_2021/Lab03/Content/Diffuse.fx</File>
-    <File>D:/Homework/CPI 411/CPI411_2021/Lab03/Content/Font.spritefont</File>
+    <File>D:/CPI411-Game-Graphics/Lab03/Content/bunny.FBX</File>
+    <File>D:/CPI411-Game-Graphics/Lab03/Content/Diffuse.fx</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
