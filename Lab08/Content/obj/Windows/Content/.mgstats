@@ -1,6 +1,6 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"F:/ASU/CPI 411/CPI411_2021/Lab08/Content/nvlobby_new_negz.png","F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.1708214
-"F:/ASU/CPI 411/CPI411_2021/Lab08/Content/Plane.FBX","F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.1390336
-"F:/ASU/CPI 411/CPI411_2021/Lab08/Content/ProjectiveTexture.fx","F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",1909,2959,0.2880846
-"F:/ASU/CPI 411/CPI411_2021/Lab08/Content/ShadowMap.fx","F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/ShadowMap.xnb","EffectProcessor","CompiledEffectContent",1124,1863,0.0917489
-"F:/ASU/CPI 411/CPI411_2021/Lab08/Content/torus.FBX","F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",88896,53689,0.0198855
+"D:/CPI411-Game-Graphics/Lab08/Content/nvlobby_new_negz.png","D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.185008
+"D:/CPI411-Game-Graphics/Lab08/Content/Plane.FBX","D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.139376
+"D:/CPI411-Game-Graphics/Lab08/Content/ProjectiveTexture.fx","D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",1909,2959,0.2871573
+"D:/CPI411-Game-Graphics/Lab08/Content/ShadowMap.fx","D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/ShadowMap.xnb","EffectProcessor","CompiledEffectContent",1124,1863,0.0957259
+"D:/CPI411-Game-Graphics/Lab08/Content/torus.FBX","D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",88896,53689,0.012897

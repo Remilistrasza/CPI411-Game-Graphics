@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/BumpTest.png</SourceFile>
+  <SourceFile>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/BumpTest.png</SourceFile>
   <SourceTime>2014-04-14T08:20:34-07:00</SourceTime>
-  <DestFile>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/Content/NormalMaps/BumpTest.xnb</DestFile>
-  <DestTime>2021-12-05T04:32:48.4567759-07:00</DestTime>
+  <DestFile>D:/CPI411-Game-Graphics/Lab07/Content/bin/Windows/Content/NormalMaps/BumpTest.xnb</DestFile>
+  <DestTime>2021-12-05T06:11:14.841257-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

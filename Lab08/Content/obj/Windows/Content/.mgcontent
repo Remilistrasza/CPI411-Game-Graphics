@@ -4,11 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/nvlobby_new_negz.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/Plane.FBX</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/ProjectiveTexture.fx</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/ShadowMap.fx</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/torus.FBX</File>
+    <File>D:/CPI411-Game-Graphics/Lab08/Content/nvlobby_new_negz.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab08/Content/Plane.FBX</File>
+    <File>D:/CPI411-Game-Graphics/Lab08/Content/ProjectiveTexture.fx</File>
+    <File>D:/CPI411-Game-Graphics/Lab08/Content/ShadowMap.fx</File>
+    <File>D:/CPI411-Game-Graphics/Lab08/Content/torus.FBX</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

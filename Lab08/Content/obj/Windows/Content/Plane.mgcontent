@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/Plane.FBX</SourceFile>
+  <SourceFile>D:/CPI411-Game-Graphics/Lab08/Content/Plane.FBX</SourceFile>
   <SourceTime>2019-02-25T14:23:52.2099387-07:00</SourceTime>
-  <DestFile>F:/ASU/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Content/Plane.xnb</DestFile>
-  <DestTime>2021-12-05T04:32:17.006999-07:00</DestTime>
+  <DestFile>D:/CPI411-Game-Graphics/Lab08/Content/bin/Windows/Content/Plane.xnb</DestFile>
+  <DestTime>2021-12-05T06:10:27.4005808-07:00</DestTime>
   <Importer>FbxImporter</Importer>
   <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
   <Processor>ModelProcessor</Processor>

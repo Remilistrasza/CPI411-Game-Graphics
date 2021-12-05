@@ -17,7 +17,7 @@ namespace Lab07
         Vector3 cameraPosition = new Vector3(0, 0, 5);
         Vector3 lightPosition = new Vector3(0, 0, 10);
 
-        float angle = 0, angle2 = 0, distance = 20;
+        float angle = 0, angle2 = -20, distance = 20;
         float angleL = 0, angleL2 = 0;
         Vector3 cameraTarget = new Vector3();
 

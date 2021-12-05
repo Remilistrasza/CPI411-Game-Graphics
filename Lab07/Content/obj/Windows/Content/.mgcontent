@@ -4,16 +4,16 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/BumpMap.fx</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/art.PNG</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/BumpTest.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/crossHatch.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/monkey.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/round.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/saint.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/science.PNG</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/square.png</File>
-    <File>F:/ASU/CPI 411/CPI411_2021/Lab07/Content/Plane.FBX</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/BumpMap.fx</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/art.PNG</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/BumpTest.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/crossHatch.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/monkey.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/round.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/saint.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/science.PNG</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/NormalMaps/square.png</File>
+    <File>D:/CPI411-Game-Graphics/Lab07/Content/Plane.FBX</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

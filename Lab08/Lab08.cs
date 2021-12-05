@@ -27,10 +27,10 @@ namespace Lab08
         Vector3 cameraPosition, cameraTarget, lightPosition;
         Matrix lightView, lightProjection;
 
-        float angle = 0;
-        float angle2 = 0;
-        float angleL = 0;
-        float angleL2 = 0;
+        float angle = 10;
+        float angle2 = -20;
+        float angleL = 10;
+        float angleL2 = 30;
         float distance = 20;
 
         MouseState preMouse;

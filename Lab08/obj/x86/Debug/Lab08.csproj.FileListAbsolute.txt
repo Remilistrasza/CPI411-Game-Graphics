@@ -54,3 +54,31 @@ F:\ASU\CPI 411\CPI411_2021\Lab08\obj\x86\Debug\Lab08.csproj.CoreCompileInputs.ca
 F:\ASU\CPI 411\CPI411_2021\Lab08\obj\x86\Debug\Lab08.csproj.CopyComplete
 F:\ASU\CPI 411\CPI411_2021\Lab08\obj\x86\Debug\Lab08.exe
 F:\ASU\CPI 411\CPI411_2021\Lab08\obj\x86\Debug\Lab08.pdb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Content\nvlobby_new_negz.xnb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Content\Plane.xnb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Content\ProjectiveTexture.xnb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Content\ShadowMap.xnb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Content\torus.xnb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Lab08.exe
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\Lab08.pdb
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CPI411-Game-Graphics\Lab08\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CPI411-Game-Graphics\Lab08\obj\x86\Debug\Lab08.csprojAssemblyReference.cache
+D:\CPI411-Game-Graphics\Lab08\obj\x86\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\CPI411-Game-Graphics\Lab08\obj\x86\Debug\Lab08.csproj.CopyComplete
+D:\CPI411-Game-Graphics\Lab08\obj\x86\Debug\Lab08.exe
+D:\CPI411-Game-Graphics\Lab08\obj\x86\Debug\Lab08.pdb
