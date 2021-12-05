@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab04/Content/Font.spritefont","D:/Homework/CPI 411/CPI411_2021/Lab04/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.3207648
+"D:/Homework/CPI 411/CPI411_2021/Lab04/Content/SimpleShading.fx","D:/Homework/CPI 411/CPI411_2021/Lab04/Content/bin/Windows/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",2754,4780,0.2678891
+"D:/Homework/CPI 411/CPI411_2021/Lab04/Content/Torus.FBX","D:/Homework/CPI 411/CPI411_2021/Lab04/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.1703932

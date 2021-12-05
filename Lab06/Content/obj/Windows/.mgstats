@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/Helicopter.fbx","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Helicopter.xnb","ModelProcessor","ModelContent",68752,24016,0.5259851
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/HelicopterTexture.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/HelicopterTexture.xnb","TextureProcessor","Texture2DContent",2544,1048661,0.045876
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/Reflection.fx","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Reflection.xnb","EffectProcessor","CompiledEffectContent",1735,2370,0.4308486
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/cube.fbx","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.0129649
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/Skybox.fx","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1186,1620,0.2661786
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG1.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.0468762
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG2.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0468734
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG3.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0388956
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG4.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0359312
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG5.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0408626
+"D:/Homework/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG6.png","D:/Homework/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0388962

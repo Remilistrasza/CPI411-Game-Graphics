@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab03/Content/bunny.FBX","D:/Homework/CPI 411/CPI411_2021/Lab03/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.6305294
+"D:/Homework/CPI 411/CPI411_2021/Lab03/Content/Diffuse.fx","D:/Homework/CPI 411/CPI411_2021/Lab03/Content/bin/Windows/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1151,2010,0.3292794
+"D:/Homework/CPI 411/CPI411_2021/Lab03/Content/Font.spritefont","D:/Homework/CPI 411/CPI411_2021/Lab03/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.3053075

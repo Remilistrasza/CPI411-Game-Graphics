@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab01/Content/logo_mg.jpg","D:/Homework/CPI 411/CPI411_2021/Lab01/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.1306525
+"D:/Homework/CPI 411/CPI411_2021/Lab01/Content/SimpleHLSL.fx","D:/Homework/CPI 411/CPI411_2021/Lab01/Content/bin/Windows/Content/SimpleHLSL.xnb","EffectProcessor","CompiledEffectContent",744,843,0.305209
+"D:/Homework/CPI 411/CPI411_2021/Lab01/Content/SimpleShading.fx","D:/Homework/CPI 411/CPI411_2021/Lab01/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6175,9337,1.786258

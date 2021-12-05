@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab08/Content/nvlobby_new_negz.png","D:/Homework/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.4380476
+"D:/Homework/CPI 411/CPI411_2021/Lab08/Content/Plane.FBX","D:/Homework/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.3111782
+"D:/Homework/CPI 411/CPI411_2021/Lab08/Content/ProjectiveTexture.fx","D:/Homework/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",1909,2959,0.4358344
+"D:/Homework/CPI 411/CPI411_2021/Lab08/Content/ShadowMap.fx","D:/Homework/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/ShadowMap.xnb","EffectProcessor","CompiledEffectContent",1124,1863,0.3480689
+"D:/Homework/CPI 411/CPI411_2021/Lab08/Content/torus.FBX","D:/Homework/CPI 411/CPI411_2021/Lab08/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",88896,53689,0.031905

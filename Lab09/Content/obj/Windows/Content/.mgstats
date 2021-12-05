@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/ASU/CPI 411/CPI411_2021/Lab09/Content/Plane.FBX","F:/ASU/CPI 411/CPI411_2021/Lab09/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",20768,1657,0.2302117
+"F:/ASU/CPI 411/CPI411_2021/Lab09/Content/ShadowShader.fx","F:/ASU/CPI 411/CPI411_2021/Lab09/Content/bin/Windows/Content/ShadowShader.xnb","EffectProcessor","CompiledEffectContent",3453,4591,0.3230977
+"F:/ASU/CPI 411/CPI411_2021/Lab09/Content/Torus.FBX","F:/ASU/CPI 411/CPI411_2021/Lab09/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0200873
+"F:/ASU/CPI 411/CPI411_2021/Lab09/Content/torus_small.FBX","F:/ASU/CPI 411/CPI411_2021/Lab09/Content/bin/Windows/Content/torus_small.xnb","ModelProcessor","ModelContent",65056,53689,0.0196519

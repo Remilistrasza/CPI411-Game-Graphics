@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/ASU/CPI 411/CPI411_2021/Lab12/Content/SSAO.fx</SourceFile>
+  <SourceTime>2021-04-20T09:16:01.7901941-07:00</SourceTime>
+  <DestFile>F:/ASU/CPI 411/CPI411_2021/Lab12/Content/bin/Windows/Content/SSAO.xnb</DestFile>
+  <DestTime>2021-12-05T04:29:06.022348-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/BumpMap.fx","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/BumpMap.xnb","EffectProcessor","CompiledEffectContent",2540,3924,0.4323522
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/art.PNG","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/art.xnb","TextureProcessor","Texture2DContent",14851,262229,0.3343214
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/BumpTest.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/BumpTest.xnb","TextureProcessor","Texture2DContent",632916,1048661,0.0777883
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/crossHatch.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/crossHatch.xnb","TextureProcessor","Texture2DContent",276085,1048661,0.0879779
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/monkey.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/monkey.xnb","TextureProcessor","Texture2DContent",32389,262229,0.0359989
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/round.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/round.xnb","TextureProcessor","Texture2DContent",265825,1048661,0.1090116
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/saint.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/saint.xnb","TextureProcessor","Texture2DContent",64372,262229,0.0399709
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/science.PNG","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/science.xnb","TextureProcessor","Texture2DContent",18386,262229,0.0380284
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/NormalMaps/square.png","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/NormalMaps/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.0870481
+"D:/Homework/CPI 411/CPI411_2021/Lab07/Content/Plane.FBX","D:/Homework/CPI 411/CPI411_2021/Lab07/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,2289,0.7498993

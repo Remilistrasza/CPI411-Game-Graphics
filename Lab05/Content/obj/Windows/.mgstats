@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/cube.fbx","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.2403576
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/Skybox.fx","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1186,1620,0.3331068
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG1.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.0987348
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG2.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0488693
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG3.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.043882
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG4.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0538558
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG5.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0508644
+"D:/Homework/CPI 411/CPI411_2021/Lab05/Content/skybox/SunsetPNG6.png","D:/Homework/CPI 411/CPI411_2021/Lab05/Content/bin/Windows/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0498664

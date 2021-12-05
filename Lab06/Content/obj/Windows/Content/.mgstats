@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/Helicopter.fbx","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/Helicopter.xnb","ModelProcessor","ModelContent",68752,24016,0.5032314
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/HelicopterTexture.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/HelicopterTexture.xnb","TextureProcessor","Texture2DContent",2544,1048661,0.0340535
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/Reflection.fx","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/Reflection.xnb","EffectProcessor","CompiledEffectContent",1735,2370,0.2764661
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/cube.fbx","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.0172233
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/Skybox.fx","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1186,1620,0.129952
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG1.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.0430914
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG2.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0510935
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG3.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0374384
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG4.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0420878
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG5.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0406725
+"F:/ASU/CPI 411/CPI411_2021/Lab06/Content/skybox/SunsetPNG6.png","F:/ASU/CPI 411/CPI411_2021/Lab06/Content/bin/Windows/Content/skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0369557
